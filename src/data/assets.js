@@ -1,0 +1,50 @@
+export const SCHOOL_IMAGES = {
+  logos: {
+    main: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Excellence-Logo.png',
+    secondary: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Logo2.png.webp',
+  },
+  hero: {
+    visionMission: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Vision-Mission.png',
+  },
+  academicWings: [
+    { title: 'Pre-Primary School', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Pre-Primary-School.png' },
+    { title: 'Primary School', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Primary-School.png.webp' },
+    { title: 'Middle School', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Middle.png.webp' },
+    { title: 'Day Care', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/day-care.png.webp' },
+  ],
+  facilities: [
+    { title: 'Strong Academic System', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Strong-Academic-System.png.webp' },
+    { title: 'Concept-Based Learning', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Concept-Based-Learning.png.webp' },
+    { title: 'Experienced Faculty', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Experienced-and-Dedicated-Faculty-1.png.webp' },
+    { title: 'Safe & Secure Campus', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Safe-and-Secure-Campus.png.webp' },
+    { title: 'Sports & Physical Education', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Sports-and-Physical-Education.png.webp' },
+    { title: 'Cultural & Creative Activities', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Cultural-and-Creative-Activities.png.webp' },
+    { title: 'Personality Development', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Personality-Development-and-Life-Skills.png.webp' },
+    { title: 'Transportation Facility', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Transportation-Facility.png.webp' },
+  ],
+  curriculum: [
+    { title: 'Skill-Based Learning', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Skill-Based-Learning.png.webp' },
+    { title: 'Community Service', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Community-Service.png.webp' },
+    { title: 'Experiential Learning', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Experiential-Learning.png.webp' },
+    { title: 'STREAM Education', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/STREAM-Education.png.webp' },
+    { title: 'Visual & Performing Arts', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Visual-and-Performing-Arts.png.webp' },
+    { title: 'Physical Development', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Physical-Development-Programs.png.webp' },
+  ],
+  coreValues: [
+    { title: 'Honesty', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Honesty1.png.webp' },
+    { title: 'Integrity', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/integrity1.png.webp' },
+    { title: 'Respect', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Respect1.png.webp' },
+    { title: 'Discipline', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Discipline01.png.webp' },
+    { title: 'Compassion', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Compassion01.png.webp' },
+    { title: 'Responsibility', image: 'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/Responsibility01.png.webp' },
+  ],
+  gallery: [
+    'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/10.png.webp',
+    'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/5-.png.webp',
+    'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/11-.png.webp',
+    'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/6-.png.webp',
+    'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/12.png.webp',
+    'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/9-.png.webp',
+    'https://excellenceinternationalschool.com/wp-content/uploads/2026/03/18.png.webp',
+  ],
+};
